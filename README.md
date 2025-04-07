@@ -13,7 +13,7 @@ This project uses Power BI to visualize trends in academic program enrollment an
 - `Academic_Programs_200_Rows.xlsx` – Cleaned dataset used for the report
 
 ## 📷 Dashboard Preview
-(Add a screenshot here later!)
+<img width="1183" alt="image" src="https://github.com/user-attachments/assets/a57145d0-a306-4fac-b3d2-3f7ef3c94241" />
 
 ## 💡 Tools Used
 - Excel
@@ -23,4 +23,4 @@ This project uses Power BI to visualize trends in academic program enrollment an
 - 📈 12% YoY increase in STEM enrollments
 - 🔻 10% drop in Arts completion rates
 
-<img width="1183" alt="image" src="https://github.com/user-attachments/assets/a57145d0-a306-4fac-b3d2-3f7ef3c94241" />
+
